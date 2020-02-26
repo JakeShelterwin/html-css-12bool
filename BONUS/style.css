@@ -1,0 +1,45 @@
+
+/* DEBUG */
+
+[class*="col-"] {
+  /* background-color: pink; */
+  min-height: 70px;
+  border: solid 1px rgba(129, 115, 23, 0.1) ;
+}
+
+/* regole generali di pagina */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 10px;
+}
+
+
+/* COLORI DELLE VARIE CELLE */
+.gialloChiaro{
+  background-color: rgb(255, 254, 130)
+}
+
+.giallo{
+  background-color: yellow;
+}
+
+.nero{
+  background-color: black;
+}
+
+.celeste{
+  background-color: CornflowerBlue;
+}
+
+.bianco {
+  background-color: white;
+}
+
+.gialloOmbra{
+  background-color: SandyBrown;
+}
